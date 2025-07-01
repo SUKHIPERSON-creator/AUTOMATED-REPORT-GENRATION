@@ -37,3 +37,4 @@ Output File: aakash1 report.pdf
 📸 Screenshot (Graph)
 This graph is automatically saved as an image (student report card.png) and inserted into the PDF.
 
+OUTPUT= [aakash final report.pdf](https://github.com/user-attachments/files/20996478/aakash.final.report.pdf)
